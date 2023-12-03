@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Surfing the web
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...ioswebsite
-- 📫 How to reach me ...@Jahmes777Ios
+- 📫 How to reach me ...
 
 <!---
 Jahmes777/Jahmes777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
