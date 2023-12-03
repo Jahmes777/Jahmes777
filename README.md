@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jahmes777
 - 👀 I’m interested in ...Surfing the web
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...ioswebsite
+- 💞️ I’m looking to collaborate on ...Github
 - 📫 How to reach me ...
 
 <!---
